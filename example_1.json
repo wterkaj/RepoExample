@@ -5,6 +5,7 @@
         "RepoPath": ""
     },
     "scene": [
+        "bottle.1",
         "bottle.2",
         "bottle.3"
     ],
