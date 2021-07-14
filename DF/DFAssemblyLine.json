@@ -6332,5 +6332,37 @@
             "placementRelTo": "http://www.ontoeng.com/DFLibProduct#Hinge",
             "parentObject": "http://www.ontoeng.com/DFLibProduct#Hinge"
         }
+    ],
+    "cameras": [
+        {
+            "id": "camera.1",
+            "type": "FlyCamera",
+            "position": [
+                234.35254706320842,
+                110.56848521021345,
+                572.1086616270297
+            ],
+            "rotation": [
+                0.15609097627379914,
+                -2.3847251142744015,
+                0.0000772490750526731
+            ],
+            "speed": 2
+        },
+        {
+            "id": "camera.2",
+            "type": "FreeCamera",
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "rotation": [
+                1.4922565104551517,
+                -1.1132976022761496,
+                0
+            ],
+            "speed": 1
+        }
     ]
 }
