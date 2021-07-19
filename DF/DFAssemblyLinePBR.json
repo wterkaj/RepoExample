@@ -220,7 +220,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_Static",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#PP_Static",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#PP_Static",
                     "unit": 1.0
                 }
             ],
@@ -314,7 +314,7 @@
             "type": "http://www.ontoeng.com/factory#Artifact",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Spring",
+                    "file": "models/PBR/Hinge.glb#Spring",
                     "unit": 1.0
                 }
             ],
@@ -336,7 +336,7 @@
             "type": "http://www.ontoeng.com/factory#Artifact",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#WingScrew",
+                    "file": "models/PBR/Hinge.glb#WingScrew",
                     "unit": 1.0
                 }
             ],
@@ -359,7 +359,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Box",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Box",
+                    "file": "models/PBR/Hinge.glb#Box",
                     "unit": 1.0
                 }
             ],
@@ -382,7 +382,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Clip",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Clip",
+                    "file": "models/PBR/Hinge.glb#Clip",
                     "unit": 1.0
                 }
             ],
@@ -405,7 +405,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Connector1",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Connector1",
+                    "file": "models/PBR/Hinge.glb#Connector1",
                     "unit": 1.0
                 }
             ],
@@ -427,7 +427,7 @@
             "type": "http://www.ontoeng.com/factory#Artifact",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Pin1-1",
+                    "file": "models/PBR/Hinge.glb#Pin1-1",
                     "unit": 1.0
                 }
             ],
@@ -449,7 +449,7 @@
             "type": "http://www.ontoeng.com/factory#Artifact",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Pin1-3",
+                    "file": "models/PBR/Hinge.glb#Pin1-3",
                     "unit": 1.0
                 }
             ],
@@ -472,7 +472,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Hook",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Hook",
+                    "file": "models/PBR/Hinge.glb#Hook",
                     "unit": 1.0
                 }
             ],
@@ -495,7 +495,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Pin1-1",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Pin1-1",
+                    "file": "models/PBR/Hinge.glb#Pin1-1",
                     "unit": 1.0
                 }
             ],
@@ -518,7 +518,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Connector2",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Connector2",
+                    "file": "models/PBR/Hinge.glb#Connector2",
                     "unit": 1.0
                 }
             ],
@@ -556,7 +556,7 @@
             "type": "http://www.ontoeng.com/factory#Artifact",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Clip",
+                    "file": "models/PBR/Hinge.glb#Clip",
                     "unit": 1.0
                 }
             ],
@@ -578,7 +578,7 @@
             "type": "http://www.ontoeng.com/factory#Artifact",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Wing",
+                    "file": "models/PBR/Hinge.glb#Wing",
                     "unit": 1.0
                 }
             ],
@@ -600,7 +600,7 @@
             "type": "http://www.ontoeng.com/factory#Artifact",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Box",
+                    "file": "models/PBR/Hinge.glb#Box",
                     "unit": 1.0
                 }
             ],
@@ -622,7 +622,7 @@
             "type": "http://www.ontoeng.com/factory#Artifact",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Hook",
+                    "file": "models/PBR/Hinge.glb#Hook",
                     "unit": 1.0
                 }
             ],
@@ -644,7 +644,7 @@
             "type": "http://www.ontoeng.com/factory#Artifact",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Pin1-2",
+                    "file": "models/PBR/Hinge.glb#Pin1-2",
                     "unit": 1.0
                 }
             ],
@@ -666,7 +666,7 @@
             "type": "http://www.ontoeng.com/factory#Artifact",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Connector1",
+                    "file": "models/PBR/Hinge.glb#Connector1",
                     "unit": 1.0
                 }
             ],
@@ -688,7 +688,7 @@
             "type": "http://www.ontoeng.com/factory#Artifact",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Connector2",
+                    "file": "models/PBR/Hinge.glb#Connector2",
                     "unit": 1.0
                 }
             ],
@@ -710,7 +710,7 @@
             "type": "http://www.ontoeng.com/factory#StorageElement",
             "representations": [
                 {
-                    "file": "models/GLB/Collection_Box_Station.glb#Box",
+                    "file": "models/PBR/Collection_Box_Station.glb#Box",
                     "unit": 1.0
                 }
             ],
@@ -733,7 +733,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#CBs_Box",
             "representations": [
                 {
-                    "file": "models/GLB/Collection_Box_Station.glb#Box",
+                    "file": "models/PBR/Collection_Box_Station.glb#Box",
                     "unit": 1.0
                 }
             ],
@@ -788,7 +788,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#Rs_Static",
             "representations": [
                 {
-                    "file": "models/GLB/Riveting_Station.glb#R_Machine_Static",
+                    "file": "models/PBR/Riveting_Station.glb#R_Machine_Static",
                     "unit": 1.0
                 }
             ],
@@ -811,7 +811,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#Rs_FloatingX1",
             "representations": [
                 {
-                    "file": "models/GLB/Riveting_Station.glb#R_Machine_Floating_X1",
+                    "file": "models/PBR/Riveting_Station.glb#R_Machine_Floating_X1",
                     "unit": 1.0
                 }
             ],
@@ -834,7 +834,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_Gripper2",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#PP_Gripper_2",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#PP_Gripper_2",
                     "unit": 1.0
                 }
             ],
@@ -857,7 +857,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PIs_Static",
             "representations": [
                 {
-                    "file": "models/GLB/Pin_Insertion_Station.glb#PI_Machine_Static",
+                    "file": "models/PBR/Pin_Insertion_Station.glb#PI_Machine_Static",
                     "unit": 1.0
                 }
             ],
@@ -880,7 +880,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#Rs_FloatingX2",
             "representations": [
                 {
-                    "file": "models/GLB/Riveting_Station.glb#R_Machine_Floating_X2",
+                    "file": "models/PBR/Riveting_Station.glb#R_Machine_Floating_X2",
                     "unit": 1.0
                 }
             ],
@@ -903,7 +903,7 @@
             "descr": "Pin Insertion Station",
             "representations": [
                 {
-                    "file": "models/GLB/Pin_Insertion_Station.glb",
+                    "file": "models/PBR/Pin_Insertion_Station.glb",
                     "unit": 1.0
                 }
             ]
@@ -914,7 +914,7 @@
             "descr": "Riveting Station",
             "representations": [
                 {
-                    "file": "models/GLB/Riveting_Station.glb",
+                    "file": "models/PBR/Riveting_Station.glb",
                     "unit": 1.0
                 }
             ]
@@ -924,7 +924,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/GLB/Pin_Insertion_Station.glb#Vibrating_Bowl_Pins",
+                    "file": "models/PBR/Pin_Insertion_Station.glb#Vibrating_Bowl_Pins",
                     "unit": 1.0
                 }
             ],
@@ -947,7 +947,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#Rs_FloatingX2",
             "representations": [
                 {
-                    "file": "models/GLB/Riveting_Station.glb#R_Machine_Floating_X2",
+                    "file": "models/PBR/Riveting_Station.glb#R_Machine_Floating_X2",
                     "unit": 1.0
                 }
             ],
@@ -970,7 +970,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_Static",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#PP_Static",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#PP_Static",
                     "unit": 1.0
                 }
             ],
@@ -993,7 +993,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#Rs_FloatingX1",
             "representations": [
                 {
-                    "file": "models/GLB/Riveting_Station.glb#R_Machine_Floating_X1",
+                    "file": "models/PBR/Riveting_Station.glb#R_Machine_Floating_X1",
                     "unit": 1.0
                 }
             ],
@@ -1016,7 +1016,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PIs_FloatingX",
             "representations": [
                 {
-                    "file": "models/GLB/Pin_Insertion_Station.glb#PI_Machine_Floating_X",
+                    "file": "models/PBR/Pin_Insertion_Station.glb#PI_Machine_Floating_X",
                     "unit": 1.0
                 }
             ],
@@ -1039,7 +1039,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_FloatingX",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#PP_Floating_X",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#PP_Floating_X",
                     "unit": 1.0
                 }
             ],
@@ -1062,7 +1062,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_Gripper2",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#PP_Gripper_2",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#PP_Gripper_2",
                     "unit": 1.0
                 }
             ],
@@ -1085,7 +1085,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PIs_VibratingBowl",
             "representations": [
                 {
-                    "file": "models/GLB/Pin_Insertion_Station.glb#Vibrating_Bowl_Pins",
+                    "file": "models/PBR/Pin_Insertion_Station.glb#Vibrating_Bowl_Pins",
                     "unit": 1.0
                 }
             ],
@@ -1108,7 +1108,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_FloatingX",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#PP_Floating_X",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#PP_Floating_X",
                     "unit": 1.0
                 }
             ],
@@ -1131,7 +1131,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PIs_VibratingBowl",
             "representations": [
                 {
-                    "file": "models/GLB/Pin_Insertion_Station.glb#Vibrating_Bowl_Pins",
+                    "file": "models/PBR/Pin_Insertion_Station.glb#Vibrating_Bowl_Pins",
                     "unit": 1.0
                 }
             ],
@@ -1153,7 +1153,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/GLB/Pin_Insertion_Station.glb#PI_Machine_Static",
+                    "file": "models/PBR/Pin_Insertion_Station.glb#PI_Machine_Static",
                     "unit": 1.0
                 }
             ],
@@ -1176,7 +1176,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_FloatingY",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#PP_Floating_Y",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#PP_Floating_Y",
                     "unit": 1.0
                 }
             ],
@@ -1199,7 +1199,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_FloatingZ",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#PP_Floating_Z",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#PP_Floating_Z",
                     "unit": 1.0
                 }
             ],
@@ -1222,7 +1222,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#Rs_Static",
             "representations": [
                 {
-                    "file": "models/GLB/Riveting_Station.glb#R_Machine_Static",
+                    "file": "models/PBR/Riveting_Station.glb#R_Machine_Static",
                     "unit": 1.0
                 }
             ],
@@ -1244,7 +1244,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/GLB/Pin_Insertion_Station.glb#PI_Machine_Floating_X",
+                    "file": "models/PBR/Pin_Insertion_Station.glb#PI_Machine_Floating_X",
                     "unit": 1.0
                 }
             ],
@@ -1267,7 +1267,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_FloatingZ",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#PP_Floating_Z",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#PP_Floating_Z",
                     "unit": 1.0
                 }
             ],
@@ -1290,7 +1290,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_FloatingY",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#PP_Floating_Y",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#PP_Floating_Y",
                     "unit": 1.0
                 }
             ],
@@ -1312,7 +1312,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/GLB/Riveting_Station.glb#R_Machine_Floating_X2",
+                    "file": "models/PBR/Riveting_Station.glb#R_Machine_Floating_X2",
                     "unit": 1.0
                 }
             ],
@@ -1335,7 +1335,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_Static",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#PP_Static",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#PP_Static",
                     "unit": 1.0
                 }
             ],
@@ -1357,7 +1357,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/GLB/Riveting_Station.glb#R_Machine_Static",
+                    "file": "models/PBR/Riveting_Station.glb#R_Machine_Static",
                     "unit": 1.0
                 }
             ],
@@ -1379,7 +1379,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/GLB/Riveting_Station.glb#R_Machine_Floating_X1",
+                    "file": "models/PBR/Riveting_Station.glb#R_Machine_Floating_X1",
                     "unit": 1.0
                 }
             ],
@@ -1402,7 +1402,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_Gripper1",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#PP_Gripper_1",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#PP_Gripper_1",
                     "unit": 1.0
                 }
             ],
@@ -1425,7 +1425,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PIs_FloatingX",
             "representations": [
                 {
-                    "file": "models/GLB/Pin_Insertion_Station.glb#PI_Machine_Floating_X",
+                    "file": "models/PBR/Pin_Insertion_Station.glb#PI_Machine_Floating_X",
                     "unit": 1.0
                 }
             ],
@@ -1448,7 +1448,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_Gripper1",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#PP_Gripper_1",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#PP_Gripper_1",
                     "unit": 1.0
                 }
             ],
@@ -1471,7 +1471,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PIs_Static",
             "representations": [
                 {
-                    "file": "models/GLB/Pin_Insertion_Station.glb#PI_Machine_Static",
+                    "file": "models/PBR/Pin_Insertion_Station.glb#PI_Machine_Static",
                     "unit": 1.0
                 }
             ],
@@ -1493,7 +1493,7 @@
             "type": "http://www.ontoeng.com/factory#MachineToolType",
             "representations": [
                 {
-                    "file": "models/GLB/Wing_Conveyor_1_Station.glb",
+                    "file": "models/PBR/Wing_Conveyor_1_Station.glb",
                     "unit": 1.0
                 }
             ]
@@ -1503,7 +1503,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/GLB/Wing_Conveyor_1_Station.glb#WC1_Static",
+                    "file": "models/PBR/Wing_Conveyor_1_Station.glb#WC1_Static",
                     "unit": 1.0
                 }
             ],
@@ -1525,7 +1525,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/GLB/Wing_Conveyor_1_Station.glb#Vibrating_Bowl_Wing",
+                    "file": "models/PBR/Wing_Conveyor_1_Station.glb#Vibrating_Bowl_Wing",
                     "unit": 1.0
                 }
             ],
@@ -1548,7 +1548,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#WC1s_FloatingY",
             "representations": [
                 {
-                    "file": "models/GLB/Wing_Conveyor_1_Station.glb#WC1_Floating_Y",
+                    "file": "models/PBR/Wing_Conveyor_1_Station.glb#WC1_Floating_Y",
                     "unit": 1.0
                 }
             ],
@@ -1570,7 +1570,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/GLB/Wing_Conveyor_1_Station.glb#WC1_Floating_X",
+                    "file": "models/PBR/Wing_Conveyor_1_Station.glb#WC1_Floating_X",
                     "unit": 1.0
                 }
             ],
@@ -1592,7 +1592,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/GLB/Wing_Conveyor_1_Station.glb#WC1_Floating_Y",
+                    "file": "models/PBR/Wing_Conveyor_1_Station.glb#WC1_Floating_Y",
                     "unit": 1.0
                 }
             ],
@@ -1615,7 +1615,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#WC1s_Static",
             "representations": [
                 {
-                    "file": "models/GLB/Wing_Conveyor_1_Station.glb#WC1_Static",
+                    "file": "models/PBR/Wing_Conveyor_1_Station.glb#WC1_Static",
                     "unit": 1.0
                 }
             ],
@@ -1638,7 +1638,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_FloatingY",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#PP_Floating_Y",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#PP_Floating_Y",
                     "unit": 1.0
                 }
             ],
@@ -1661,7 +1661,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_FloatingX",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#PP_Floating_X",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#PP_Floating_X",
                     "unit": 1.0
                 }
             ],
@@ -1683,7 +1683,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#PP_Gripper_1",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#PP_Gripper_1",
                     "unit": 1.0
                 }
             ],
@@ -1706,7 +1706,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#WC1s_Gripper2",
             "representations": [
                 {
-                    "file": "models/GLB/Wing_Conveyor_1_Station.glb#WC1_Gripper_2",
+                    "file": "models/PBR/Wing_Conveyor_1_Station.glb#WC1_Gripper_2",
                     "unit": 1.0
                 }
             ],
@@ -1728,7 +1728,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#PP_Gripper_2",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#PP_Gripper_2",
                     "unit": 1.0
                 }
             ],
@@ -1750,7 +1750,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/GLB/Wing_Conveyor_1_Station.glb#WC1_Gripper_1",
+                    "file": "models/PBR/Wing_Conveyor_1_Station.glb#WC1_Gripper_1",
                     "unit": 1.0
                 }
             ],
@@ -1773,7 +1773,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_FloatingZ",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#PP_Floating_Z",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#PP_Floating_Z",
                     "unit": 1.0
                 }
             ],
@@ -1795,7 +1795,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#PP_Floating_Z",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#PP_Floating_Z",
                     "unit": 1.0
                 }
             ],
@@ -1818,7 +1818,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_Gripper1",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#PP_Gripper_1",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#PP_Gripper_1",
                     "unit": 1.0
                 }
             ],
@@ -1841,7 +1841,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_Gripper2",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#PP_Gripper_2",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#PP_Gripper_2",
                     "unit": 1.0
                 }
             ],
@@ -1864,7 +1864,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#WC1s_Gripper1",
             "representations": [
                 {
-                    "file": "models/GLB/Wing_Conveyor_1_Station.glb#WC1_Gripper_1",
+                    "file": "models/PBR/Wing_Conveyor_1_Station.glb#WC1_Gripper_1",
                     "unit": 1.0
                 }
             ],
@@ -1887,7 +1887,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#WC1s_FloatingX",
             "representations": [
                 {
-                    "file": "models/GLB/Wing_Conveyor_1_Station.glb#WC1_Floating_X",
+                    "file": "models/PBR/Wing_Conveyor_1_Station.glb#WC1_Floating_X",
                     "unit": 1.0
                 }
             ],
@@ -1910,7 +1910,7 @@
             "descr": "Pick and Place Station",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb",
+                    "file": "models/PBR/Pick_and_Place_Station.glb",
                     "unit": 1.0
                 }
             ]
@@ -1921,7 +1921,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_Static",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#PP_Static",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#PP_Static",
                     "unit": 1.0
                 }
             ],
@@ -1944,7 +1944,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#WC1s_VibratingBowl",
             "representations": [
                 {
-                    "file": "models/GLB/Wing_Conveyor_1_Station.glb#Vibrating_Bowl_Wing",
+                    "file": "models/PBR/Wing_Conveyor_1_Station.glb#Vibrating_Bowl_Wing",
                     "unit": 1.0
                 }
             ],
@@ -1966,7 +1966,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#PP_Static",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#PP_Static",
                     "unit": 1.0
                 }
             ],
@@ -1988,7 +1988,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/GLB/Wing_Conveyor_1_Station.glb#WC1_Gripper_2",
+                    "file": "models/PBR/Wing_Conveyor_1_Station.glb#WC1_Gripper_2",
                     "unit": 1.0
                 }
             ],
@@ -2011,7 +2011,7 @@
             "descr": "Conveyor as buffer unit",
             "representations": [
                 {
-                    "file": "models/GLB/Conveyor_Main.glb",
+                    "file": "models/PBR/Conveyor_Main.glb",
                     "unit": 1.0
                 }
             ]
@@ -2021,7 +2021,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#PP_Floating_X",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#PP_Floating_X",
                     "unit": 1.0
                 }
             ],
@@ -2043,7 +2043,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#PP_Floating_Y",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#PP_Floating_Y",
                     "unit": 1.0
                 }
             ],
@@ -2066,7 +2066,7 @@
             "descr": "Pallet for the main hinge assembly",
             "representations": [
                 {
-                    "file": "models/GLB/Pallet.glb",
+                    "file": "models/PBR/Pallet.glb",
                     "unit": 1.0
                 }
             ]
@@ -2077,7 +2077,7 @@
             "descr": "Hinge",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb",
+                    "file": "models/PBR/Hinge.glb",
                     "unit": 1.0
                 }
             ]
@@ -2088,7 +2088,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#CB5_Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Conveyor_Main.glb#Elements",
+                    "file": "models/PBR/Conveyor_Main.glb#Elements",
                     "unit": 1.0
                 }
             ],
@@ -2184,7 +2184,7 @@
             "type": "http://www.ontoeng.com/factory#Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station_Box.glb#Conveyor_Main",
+                    "file": "models/PBR/Pick_and_Place_Station_Box.glb#Conveyor_Main",
                     "unit": 1.0
                 }
             ],
@@ -2316,7 +2316,7 @@
             "type": "http://www.ontoeng.com/factory#Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station_Box.glb#Conveyor_Lateral",
+                    "file": "models/PBR/Pick_and_Place_Station_Box.glb#Conveyor_Lateral",
                     "unit": 1.0
                 }
             ],
@@ -2433,7 +2433,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PIs_Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Pin_Insertion_Station.glb#Conveyor_Main",
+                    "file": "models/PBR/Pin_Insertion_Station.glb#Conveyor_Main",
                     "unit": 1.0
                 }
             ],
@@ -2496,7 +2496,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PP2s_LateralConveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station_Box.glb#Conveyor_Lateral",
+                    "file": "models/PBR/Pick_and_Place_Station_Box.glb#Conveyor_Lateral",
                     "unit": 1.0
                 }
             ],
@@ -2538,7 +2538,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#Rs_Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Riveting_Station.glb#Conveyor_Main",
+                    "file": "models/PBR/Riveting_Station.glb#Conveyor_Main",
                     "unit": 1.0
                 }
             ],
@@ -2598,7 +2598,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PP2s_Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station_Box.glb#Conveyor_Main",
+                    "file": "models/PBR/Pick_and_Place_Station_Box.glb#Conveyor_Main",
                     "unit": 1.0
                 }
             ],
@@ -2961,7 +2961,7 @@
             "type": "http://www.ontoeng.com/factory#Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Conveyor_Main.glb",
+                    "file": "models/PBR/Conveyor_Main.glb",
                     "unit": 1.0
                 }
             ],
@@ -3059,7 +3059,7 @@
             "type": "http://www.ontoeng.com/factory#Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Wing_Conveyor_1_Station.glb#WC1_Conveyor",
+                    "file": "models/PBR/Wing_Conveyor_1_Station.glb#WC1_Conveyor",
                     "unit": 1.0
                 }
             ],
@@ -3137,7 +3137,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#WC1s_Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Wing_Conveyor_1_Station.glb#WC1_Conveyor",
+                    "file": "models/PBR/Wing_Conveyor_1_Station.glb#WC1_Conveyor",
                     "unit": 1.0
                 }
             ],
@@ -3288,7 +3288,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#WC1s_PalletConveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Conveyor_Main.glb",
+                    "file": "models/PBR/Conveyor_Main.glb",
                     "unit": 1.0
                 }
             ],
@@ -3366,7 +3366,7 @@
             "type": "http://www.ontoeng.com/factory#Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#Conveyor_Main",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#Conveyor_Main",
                     "unit": 1.0
                 }
             ],
@@ -3388,7 +3388,7 @@
             "type": "http://www.ontoeng.com/factory#Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#Conveyor_Lateral",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#Conveyor_Lateral",
                     "unit": 1.0
                 }
             ],
@@ -3540,7 +3540,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#CB5_Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Conveyor_Main.glb#Elements",
+                    "file": "models/PBR/Conveyor_Main.glb#Elements",
                     "unit": 1.0
                 }
             ],
@@ -3658,7 +3658,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#Conveyor_Main",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#Conveyor_Main",
                     "unit": 1.0
                 }
             ],
@@ -3681,7 +3681,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_LateralConveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#Conveyor_Lateral",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#Conveyor_Lateral",
                     "unit": 1.0
                 }
             ],
@@ -3907,7 +3907,7 @@
             "type": "http://www.ontoeng.com/factory#Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Conveyor_Main.glb#Elements",
+                    "file": "models/PBR/Conveyor_Main.glb#Elements",
                     "unit": 1.0
                 }
             ],
@@ -4041,7 +4041,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#CB5_Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Conveyor_Main.glb#Elements",
+                    "file": "models/PBR/Conveyor_Main.glb#Elements",
                     "unit": 1.0
                 }
             ],
@@ -4100,7 +4100,7 @@
             "type": "http://www.ontoeng.com/factory#Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Riveting_Station.glb#Conveyor_Main",
+                    "file": "models/PBR/Riveting_Station.glb#Conveyor_Main",
                     "unit": 1.0
                 }
             ],
@@ -4192,7 +4192,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#Conveyor_Main",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#Conveyor_Main",
                     "unit": 1.0
                 }
             ],
@@ -4235,7 +4235,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#Conveyor_Main",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#Conveyor_Main",
                     "unit": 1.0
                 }
             ],
@@ -4351,7 +4351,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PIs_Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Pin_Insertion_Station.glb#Conveyor_Main",
+                    "file": "models/PBR/Pin_Insertion_Station.glb#Conveyor_Main",
                     "unit": 1.0
                 }
             ],
@@ -4413,7 +4413,7 @@
             "type": "http://www.ontoeng.com/factory#Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Pin_Insertion_Station.glb#Conveyor_Main",
+                    "file": "models/PBR/Pin_Insertion_Station.glb#Conveyor_Main",
                     "unit": 1.0
                 }
             ],
@@ -4436,7 +4436,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#Rs_Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Riveting_Station.glb#Conveyor_Main",
+                    "file": "models/PBR/Riveting_Station.glb#Conveyor_Main",
                     "unit": 1.0
                 }
             ],
@@ -4533,7 +4533,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_LateralConveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#Conveyor_Lateral",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#Conveyor_Lateral",
                     "unit": 1.0
                 }
             ],
@@ -4610,7 +4610,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_LateralConveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#Conveyor_Lateral",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#Conveyor_Lateral",
                     "unit": 1.0
                 }
             ],
@@ -4653,7 +4653,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#Conveyor_Main",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#Conveyor_Main",
                     "unit": 1.0
                 }
             ],
@@ -4770,7 +4770,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PIs_Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Pin_Insertion_Station.glb#Conveyor_Main",
+                    "file": "models/PBR/Pin_Insertion_Station.glb#Conveyor_Main",
                     "unit": 1.0
                 }
             ],
@@ -4833,7 +4833,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_LateralConveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#Conveyor_Lateral",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#Conveyor_Lateral",
                     "unit": 1.0
                 }
             ],
@@ -4893,7 +4893,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#CB5_Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Conveyor_Main.glb#Elements",
+                    "file": "models/PBR/Conveyor_Main.glb#Elements",
                     "unit": 1.0
                 }
             ],
@@ -5013,7 +5013,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#Rs_Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Riveting_Station.glb#Conveyor_Main",
+                    "file": "models/PBR/Riveting_Station.glb#Conveyor_Main",
                     "unit": 1.0
                 }
             ],
@@ -5070,7 +5070,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PIs_VibratingBowl",
             "representations": [
                 {
-                    "file": "models/GLB/Pin_Insertion_Station.glb#Vibrating_Bowl_Pins",
+                    "file": "models/PBR/Pin_Insertion_Station.glb#Vibrating_Bowl_Pins",
                     "unit": 1.0
                 }
             ],
@@ -5093,7 +5093,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_FloatingX",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#PP_Floating_X",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#PP_Floating_X",
                     "unit": 1.0
                 }
             ],
@@ -5116,7 +5116,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PIs_FloatingX",
             "representations": [
                 {
-                    "file": "models/GLB/Pin_Insertion_Station.glb#PI_Machine_Floating_X",
+                    "file": "models/PBR/Pin_Insertion_Station.glb#PI_Machine_Floating_X",
                     "unit": 1.0
                 }
             ],
@@ -5139,7 +5139,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PP2s_Gripper1",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station_Box.glb#PP_Gripper_1",
+                    "file": "models/PBR/Pick_and_Place_Station_Box.glb#PP_Gripper_1",
                     "unit": 1.0
                 }
             ],
@@ -5162,7 +5162,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#Rs_Static",
             "representations": [
                 {
-                    "file": "models/GLB/Riveting_Station.glb#R_Machine_Static",
+                    "file": "models/PBR/Riveting_Station.glb#R_Machine_Static",
                     "unit": 1.0
                 }
             ],
@@ -5185,7 +5185,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PIs_FloatingX",
             "representations": [
                 {
-                    "file": "models/GLB/Pin_Insertion_Station.glb#PI_Machine_Floating_X",
+                    "file": "models/PBR/Pin_Insertion_Station.glb#PI_Machine_Floating_X",
                     "unit": 1.0
                 }
             ],
@@ -5208,7 +5208,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#Rs_FloatingX1",
             "representations": [
                 {
-                    "file": "models/GLB/Riveting_Station.glb#R_Machine_Floating_X1",
+                    "file": "models/PBR/Riveting_Station.glb#R_Machine_Floating_X1",
                     "unit": 1.0
                 }
             ],
@@ -5231,7 +5231,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#Rs_FloatingX2",
             "representations": [
                 {
-                    "file": "models/GLB/Riveting_Station.glb#R_Machine_Floating_X2",
+                    "file": "models/PBR/Riveting_Station.glb#R_Machine_Floating_X2",
                     "unit": 1.0
                 }
             ],
@@ -5254,7 +5254,7 @@
             "descr": "Inspection Camera Station",
             "representations": [
                 {
-                    "file": "models/GLB/Inspection_Camera_Station.glb",
+                    "file": "models/PBR/Inspection_Camera_Station.glb",
                     "unit": 1.0
                 }
             ]
@@ -5265,7 +5265,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PP2s_FloatingY",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station_Box.glb#PP_Floating_Y",
+                    "file": "models/PBR/Pick_and_Place_Station_Box.glb#PP_Floating_Y",
                     "unit": 1.0
                 }
             ],
@@ -5288,7 +5288,7 @@
             "descr": "Pick and Place Station",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station_Box.glb",
+                    "file": "models/PBR/Pick_and_Place_Station_Box.glb",
                     "unit": 1.0
                 }
             ]
@@ -5298,7 +5298,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station_Box.glb#PP_Floating_X",
+                    "file": "models/PBR/Pick_and_Place_Station_Box.glb#PP_Floating_X",
                     "unit": 1.0
                 }
             ],
@@ -5320,7 +5320,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station_Box.glb#PP_Static",
+                    "file": "models/PBR/Pick_and_Place_Station_Box.glb#PP_Static",
                     "unit": 1.0
                 }
             ],
@@ -5343,7 +5343,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_FloatingZ",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#PP_Floating_Z",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#PP_Floating_Z",
                     "unit": 1.0
                 }
             ],
@@ -5366,7 +5366,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#Rs_FloatingX1",
             "representations": [
                 {
-                    "file": "models/GLB/Riveting_Station.glb#R_Machine_Floating_X1",
+                    "file": "models/PBR/Riveting_Station.glb#R_Machine_Floating_X1",
                     "unit": 1.0
                 }
             ],
@@ -5389,7 +5389,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_FloatingY",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#PP_Floating_Y",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#PP_Floating_Y",
                     "unit": 1.0
                 }
             ],
@@ -5412,7 +5412,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#Rs_Static",
             "representations": [
                 {
-                    "file": "models/GLB/Riveting_Station.glb#R_Machine_Static",
+                    "file": "models/PBR/Riveting_Station.glb#R_Machine_Static",
                     "unit": 1.0
                 }
             ],
@@ -5435,7 +5435,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PIs_Static",
             "representations": [
                 {
-                    "file": "models/GLB/Pin_Insertion_Station.glb#PI_Machine_Static",
+                    "file": "models/PBR/Pin_Insertion_Station.glb#PI_Machine_Static",
                     "unit": 1.0
                 }
             ],
@@ -5458,7 +5458,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#Rs_FloatingX2",
             "representations": [
                 {
-                    "file": "models/GLB/Riveting_Station.glb#R_Machine_Floating_X2",
+                    "file": "models/PBR/Riveting_Station.glb#R_Machine_Floating_X2",
                     "unit": 1.0
                 }
             ],
@@ -5481,7 +5481,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PP2s_FloatingX",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station_Box.glb#PP_Floating_X",
+                    "file": "models/PBR/Pick_and_Place_Station_Box.glb#PP_Floating_X",
                     "unit": 1.0
                 }
             ],
@@ -5503,7 +5503,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station_Box.glb#PP_Floating_Y",
+                    "file": "models/PBR/Pick_and_Place_Station_Box.glb#PP_Floating_Y",
                     "unit": 1.0
                 }
             ],
@@ -5525,7 +5525,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station_Box.glb#PP_Gripper_1",
+                    "file": "models/PBR/Pick_and_Place_Station_Box.glb#PP_Gripper_1",
                     "unit": 1.0
                 }
             ],
@@ -5548,7 +5548,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PP2s_FloatingZ",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station_Box.glb#PP_Floating_Z",
+                    "file": "models/PBR/Pick_and_Place_Station_Box.glb#PP_Floating_Z",
                     "unit": 1.0
                 }
             ],
@@ -5571,7 +5571,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_Gripper2",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#PP_Gripper_2",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#PP_Gripper_2",
                     "unit": 1.0
                 }
             ],
@@ -5594,7 +5594,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PPs_Gripper1",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station.glb#PP_Gripper_1",
+                    "file": "models/PBR/Pick_and_Place_Station.glb#PP_Gripper_1",
                     "unit": 1.0
                 }
             ],
@@ -5616,7 +5616,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station_Box.glb#PP_Gripper_2",
+                    "file": "models/PBR/Pick_and_Place_Station_Box.glb#PP_Gripper_2",
                     "unit": 1.0
                 }
             ],
@@ -5639,7 +5639,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PP2s_Gripper2",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station_Box.glb#PP_Gripper_2",
+                    "file": "models/PBR/Pick_and_Place_Station_Box.glb#PP_Gripper_2",
                     "unit": 1.0
                 }
             ],
@@ -5662,7 +5662,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PIs_VibratingBowl",
             "representations": [
                 {
-                    "file": "models/GLB/Pin_Insertion_Station.glb#Vibrating_Bowl_Pins",
+                    "file": "models/PBR/Pin_Insertion_Station.glb#Vibrating_Bowl_Pins",
                     "unit": 1.0
                 }
             ],
@@ -5685,7 +5685,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PP2s_Static",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station_Box.glb#PP_Static",
+                    "file": "models/PBR/Pick_and_Place_Station_Box.glb#PP_Static",
                     "unit": 1.0
                 }
             ],
@@ -5708,7 +5708,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PIs_Static",
             "representations": [
                 {
-                    "file": "models/GLB/Pin_Insertion_Station.glb#PI_Machine_Static",
+                    "file": "models/PBR/Pin_Insertion_Station.glb#PI_Machine_Static",
                     "unit": 1.0
                 }
             ],
@@ -5730,7 +5730,7 @@
             "type": "http://www.ontoeng.com/factory#MachineToolType",
             "representations": [
                 {
-                    "file": "models/GLB/Collection_Box_Station.glb",
+                    "file": "models/PBR/Collection_Box_Station.glb",
                     "unit": 1.0
                 }
             ]
@@ -5740,7 +5740,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/GLB/Pick_and_Place_Station_Box.glb#PP_Floating_Z",
+                    "file": "models/PBR/Pick_and_Place_Station_Box.glb#PP_Floating_Z",
                     "unit": 1.0
                 }
             ],
@@ -5762,7 +5762,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/GLB/Collection_Box_Station.glb#CB_Gripper_1",
+                    "file": "models/PBR/Collection_Box_Station.glb#CB_Gripper_1",
                     "unit": 1.0
                 }
             ],
@@ -5785,7 +5785,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#CBs_Gripper1",
             "representations": [
                 {
-                    "file": "models/GLB/Collection_Box_Station.glb#CB_Gripper_1",
+                    "file": "models/PBR/Collection_Box_Station.glb#CB_Gripper_1",
                     "unit": 1.0
                 }
             ],
@@ -5807,7 +5807,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/GLB/Collection_Box_Station.glb#CB_Gripper_2",
+                    "file": "models/PBR/Collection_Box_Station.glb#CB_Gripper_2",
                     "unit": 1.0
                 }
             ],
@@ -5830,7 +5830,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#CBs_FloatingY",
             "representations": [
                 {
-                    "file": "models/GLB/Collection_Box_Station.glb#CB_Floating_Y",
+                    "file": "models/PBR/Collection_Box_Station.glb#CB_Floating_Y",
                     "unit": 1.0
                 }
             ],
@@ -5852,7 +5852,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/GLB/Collection_Box_Station.glb#CB_Floating_Y",
+                    "file": "models/PBR/Collection_Box_Station.glb#CB_Floating_Y",
                     "unit": 1.0
                 }
             ],
@@ -5875,7 +5875,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#CBs_Gripper2",
             "representations": [
                 {
-                    "file": "models/GLB/Collection_Box_Station.glb#CB_Gripper_2",
+                    "file": "models/PBR/Collection_Box_Station.glb#CB_Gripper_2",
                     "unit": 1.0
                 }
             ],
@@ -5898,7 +5898,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#CBs_Static",
             "representations": [
                 {
-                    "file": "models/GLB/Collection_Box_Station.glb#CB_Static",
+                    "file": "models/PBR/Collection_Box_Station.glb#CB_Static",
                     "unit": 1.0
                 }
             ],
@@ -5920,7 +5920,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/GLB/Collection_Box_Station.glb#CB_Floating_X",
+                    "file": "models/PBR/Collection_Box_Station.glb#CB_Floating_X",
                     "unit": 1.0
                 }
             ],
@@ -5943,7 +5943,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#CBs_FloatingX",
             "representations": [
                 {
-                    "file": "models/GLB/Collection_Box_Station.glb#CB_Floating_X",
+                    "file": "models/PBR/Collection_Box_Station.glb#CB_Floating_X",
                     "unit": 1.0
                 }
             ],
@@ -5965,7 +5965,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/GLB/Collection_Box_Station.glb#CB_Static",
+                    "file": "models/PBR/Collection_Box_Station.glb#CB_Static",
                     "unit": 1.0
                 }
             ],
@@ -5988,7 +5988,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#ICs_Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Inspection_Camera_Station.glb#Conveyor_Main",
+                    "file": "models/PBR/Inspection_Camera_Station.glb#Conveyor_Main",
                     "unit": 1.0
                 }
             ],
@@ -6031,7 +6031,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#Rs_Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Riveting_Station.glb#Conveyor_Main",
+                    "file": "models/PBR/Riveting_Station.glb#Conveyor_Main",
                     "unit": 1.0
                 }
             ],
@@ -6054,7 +6054,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#PIs_Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Pin_Insertion_Station.glb#Conveyor_Main",
+                    "file": "models/PBR/Pin_Insertion_Station.glb#Conveyor_Main",
                     "unit": 1.0
                 }
             ],
@@ -6300,7 +6300,7 @@
             "type": "http://www.ontoeng.com/factory#Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Collection_Box_Station.glb#Conveyor_Main",
+                    "file": "models/PBR/Collection_Box_Station.glb#Conveyor_Main",
                     "unit": 1.0
                 }
             ],
@@ -6546,7 +6546,7 @@
             "type": "http://www.ontoeng.com/factory#Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Inspection_Camera_Station.glb#Conveyor_Main",
+                    "file": "models/PBR/Inspection_Camera_Station.glb#Conveyor_Main",
                     "unit": 1.0
                 }
             ],
@@ -6569,7 +6569,7 @@
             "descr": "Default building",
             "representations": [
                 {
-                    "file": "models/GLB/Warehouse.glb",
+                    "file": "models/PBR/Warehouse.glb",
                     "unit": 1.0
                 }
             ],
@@ -6827,7 +6827,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#CBs_Conveyor",
             "representations": [
                 {
-                    "file": "models/GLB/Collection_Box_Station.glb#Conveyor_Main",
+                    "file": "models/PBR/Collection_Box_Station.glb#Conveyor_Main",
                     "unit": 1.0
                 }
             ],
@@ -6899,7 +6899,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Hook",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Hook",
+                    "file": "models/PBR/Hinge.glb#Hook",
                     "unit": 1.0
                 }
             ],
@@ -6938,7 +6938,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Spring",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Spring",
+                    "file": "models/PBR/Hinge.glb#Spring",
                     "unit": 1.0
                 }
             ],
@@ -6961,7 +6961,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Pin1-2",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Pin1-2",
+                    "file": "models/PBR/Hinge.glb#Pin1-2",
                     "unit": 1.0
                 }
             ],
@@ -6984,7 +6984,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Wing",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Wing",
+                    "file": "models/PBR/Hinge.glb#Wing",
                     "unit": 1.0
                 }
             ],
@@ -7007,7 +7007,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Connector1",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Connector1",
+                    "file": "models/PBR/Hinge.glb#Connector1",
                     "unit": 1.0
                 }
             ],
@@ -7030,7 +7030,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#WingScrew",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#WingScrew",
+                    "file": "models/PBR/Hinge.glb#WingScrew",
                     "unit": 1.0
                 }
             ],
@@ -7053,7 +7053,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Box",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Box",
+                    "file": "models/PBR/Hinge.glb#Box",
                     "unit": 1.0
                 }
             ],
@@ -7076,7 +7076,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Pin1-1",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Pin1-1",
+                    "file": "models/PBR/Hinge.glb#Pin1-1",
                     "unit": 1.0
                 }
             ],
@@ -7099,7 +7099,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Wing",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Wing",
+                    "file": "models/PBR/Hinge.glb#Wing",
                     "unit": 1.0
                 }
             ],
@@ -7122,7 +7122,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Clip",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Clip",
+                    "file": "models/PBR/Hinge.glb#Clip",
                     "unit": 1.0
                 }
             ],
@@ -7145,7 +7145,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Pin1-3",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Pin1-3",
+                    "file": "models/PBR/Hinge.glb#Pin1-3",
                     "unit": 1.0
                 }
             ],
@@ -7168,7 +7168,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Spring",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Spring",
+                    "file": "models/PBR/Hinge.glb#Spring",
                     "unit": 1.0
                 }
             ],
@@ -7191,7 +7191,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Connector1",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Connector1",
+                    "file": "models/PBR/Hinge.glb#Connector1",
                     "unit": 1.0
                 }
             ],
@@ -7230,7 +7230,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Pin1-3",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Pin1-3",
+                    "file": "models/PBR/Hinge.glb#Pin1-3",
                     "unit": 1.0
                 }
             ],
@@ -7253,7 +7253,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Clip",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Clip",
+                    "file": "models/PBR/Hinge.glb#Clip",
                     "unit": 1.0
                 }
             ],
@@ -7276,7 +7276,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Pin1-1",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Pin1-1",
+                    "file": "models/PBR/Hinge.glb#Pin1-1",
                     "unit": 1.0
                 }
             ],
@@ -7299,7 +7299,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Pin1-2",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Pin1-2",
+                    "file": "models/PBR/Hinge.glb#Pin1-2",
                     "unit": 1.0
                 }
             ],
@@ -7322,7 +7322,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Spring",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Spring",
+                    "file": "models/PBR/Hinge.glb#Spring",
                     "unit": 1.0
                 }
             ],
@@ -7345,7 +7345,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Pin1-3",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Pin1-3",
+                    "file": "models/PBR/Hinge.glb#Pin1-3",
                     "unit": 1.0
                 }
             ],
@@ -7368,7 +7368,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#WingScrew",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#WingScrew",
+                    "file": "models/PBR/Hinge.glb#WingScrew",
                     "unit": 1.0
                 }
             ],
@@ -7407,7 +7407,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Box",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Box",
+                    "file": "models/PBR/Hinge.glb#Box",
                     "unit": 1.0
                 }
             ],
@@ -7430,7 +7430,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Clip",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Clip",
+                    "file": "models/PBR/Hinge.glb#Clip",
                     "unit": 1.0
                 }
             ],
@@ -7453,7 +7453,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Connector2",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Connector2",
+                    "file": "models/PBR/Hinge.glb#Connector2",
                     "unit": 1.0
                 }
             ],
@@ -7476,7 +7476,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Box",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Box",
+                    "file": "models/PBR/Hinge.glb#Box",
                     "unit": 1.0
                 }
             ],
@@ -7499,7 +7499,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Wing",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Wing",
+                    "file": "models/PBR/Hinge.glb#Wing",
                     "unit": 1.0
                 }
             ],
@@ -7522,7 +7522,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Hook",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Hook",
+                    "file": "models/PBR/Hinge.glb#Hook",
                     "unit": 1.0
                 }
             ],
@@ -7545,7 +7545,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Pin1-2",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Pin1-2",
+                    "file": "models/PBR/Hinge.glb#Pin1-2",
                     "unit": 1.0
                 }
             ],
@@ -7568,7 +7568,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#WingScrew",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#WingScrew",
+                    "file": "models/PBR/Hinge.glb#WingScrew",
                     "unit": 1.0
                 }
             ],
@@ -7591,7 +7591,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Connector2",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Connector2",
+                    "file": "models/PBR/Hinge.glb#Connector2",
                     "unit": 1.0
                 }
             ],
@@ -7614,7 +7614,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Connector2",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Connector2",
+                    "file": "models/PBR/Hinge.glb#Connector2",
                     "unit": 1.0
                 }
             ],
@@ -7637,7 +7637,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Hook",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Hook",
+                    "file": "models/PBR/Hinge.glb#Hook",
                     "unit": 1.0
                 }
             ],
@@ -7660,7 +7660,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Spring",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Spring",
+                    "file": "models/PBR/Hinge.glb#Spring",
                     "unit": 1.0
                 }
             ],
@@ -7683,7 +7683,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Pin1-3",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Pin1-3",
+                    "file": "models/PBR/Hinge.glb#Pin1-3",
                     "unit": 1.0
                 }
             ],
@@ -7706,7 +7706,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Pin1-2",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Pin1-2",
+                    "file": "models/PBR/Hinge.glb#Pin1-2",
                     "unit": 1.0
                 }
             ],
@@ -7729,7 +7729,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Connector1",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Connector1",
+                    "file": "models/PBR/Hinge.glb#Connector1",
                     "unit": 1.0
                 }
             ],
@@ -7752,7 +7752,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Pin1-1",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Pin1-1",
+                    "file": "models/PBR/Hinge.glb#Pin1-1",
                     "unit": 1.0
                 }
             ],
@@ -7775,7 +7775,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#WingScrew",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#WingScrew",
+                    "file": "models/PBR/Hinge.glb#WingScrew",
                     "unit": 1.0
                 }
             ],
@@ -7798,7 +7798,7 @@
             "model": "http://www.ontoeng.com/DFLibProduct#Wing",
             "representations": [
                 {
-                    "file": "models/GLB/Hinge.glb#Wing",
+                    "file": "models/PBR/Hinge.glb#Wing",
                     "unit": 1.0
                 }
             ],
