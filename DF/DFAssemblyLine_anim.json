@@ -34,7 +34,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1770.4]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(3.5408)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1770.4]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(3.5408)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B1.CB5_Pos1"
                     }
                 },
@@ -45,7 +45,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP1.PPs_PalletPosition"
                     }
                 },
@@ -56,7 +56,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI1.PIs_PalletPosition"
                     }
                 },
@@ -67,7 +67,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R1.Rs_PalletPosition"
                     }
                 },
@@ -78,7 +78,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1400]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2.8)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1400]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2.8)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B2.CB5_Pos1"
                     }
                 },
@@ -89,7 +89,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP2.PPs_PalletPosition"
                     }
                 },
@@ -100,7 +100,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP3.PPs_PalletPosition"
                     }
                 },
@@ -111,7 +111,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI2.PIs_PalletPosition"
                     }
                 },
@@ -122,7 +122,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R2.Rs_PalletPosition"
                     }
                 },
@@ -133,7 +133,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1400]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2.8)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1400]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2.8)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B3.CB5_Pos1"
                     }
                 },
@@ -144,7 +144,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP4.PPs_PalletPosition"
                     }
                 },
@@ -155,7 +155,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI3.PIs_PalletPosition"
                     }
                 },
@@ -166,7 +166,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R3.Rs_PalletPosition"
                     }
                 },
@@ -177,7 +177,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1400]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2.8)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1400]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2.8)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B4.CB5_Pos1"
                     }
                 },
@@ -188,7 +188,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP5.PP2s_PalletPosition"
                     }
                 },
@@ -199,7 +199,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI4.PIs_PalletPosition"
                     }
                 },
@@ -210,7 +210,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R4.Rs_PalletPosition"
                     }
                 },
@@ -221,7 +221,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#C1.ICs_PalletPosition"
                     }
                 },
@@ -232,7 +232,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB1.CBs_PalletPosition"
                     }
                 },
@@ -288,7 +288,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1570.4]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(3.1408)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1570.4]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(3.1408)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B1.CB5_Pos2"
                     }
                 },
@@ -299,7 +299,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][200]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.4)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][200]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.4)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B1.CB5_Pos1"
                     }
                 },
@@ -310,7 +310,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP1.PPs_PalletPosition"
                     }
                 },
@@ -321,7 +321,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI1.PIs_PalletPosition"
                     }
                 },
@@ -332,7 +332,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R1.Rs_PalletPosition"
                     }
                 },
@@ -343,7 +343,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1400]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2.8)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1400]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2.8)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B2.CB5_Pos1"
                     }
                 },
@@ -354,7 +354,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP2.PPs_PalletPosition"
                     }
                 },
@@ -365,7 +365,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP3.PPs_PalletPosition"
                     }
                 },
@@ -376,7 +376,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI2.PIs_PalletPosition"
                     }
                 },
@@ -387,7 +387,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R2.Rs_PalletPosition"
                     }
                 },
@@ -398,7 +398,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1400]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2.8)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1400]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2.8)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B3.CB5_Pos1"
                     }
                 },
@@ -409,7 +409,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP4.PPs_PalletPosition"
                     }
                 },
@@ -420,7 +420,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI3.PIs_PalletPosition"
                     }
                 },
@@ -431,7 +431,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R3.Rs_PalletPosition"
                     }
                 },
@@ -442,7 +442,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1400]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2.8)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1400]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2.8)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B4.CB5_Pos1"
                     }
                 },
@@ -453,7 +453,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP5.PP2s_PalletPosition"
                     }
                 },
@@ -464,7 +464,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI4.PIs_PalletPosition"
                     }
                 },
@@ -475,7 +475,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R4.Rs_PalletPosition"
                     }
                 },
@@ -486,7 +486,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#C1.ICs_PalletPosition"
                     }
                 },
@@ -497,7 +497,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB1.CBs_PalletPosition"
                     }
                 },
@@ -553,7 +553,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1570.4]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(3.1408)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1570.4]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(3.1408)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B1.CB5_Pos2"
                     }
                 },
@@ -564,7 +564,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][200]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.4)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][200]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.4)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B1.CB5_Pos1"
                     }
                 },
@@ -575,7 +575,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP1.PPs_PalletPosition"
                     }
                 },
@@ -586,7 +586,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI1.PIs_PalletPosition"
                     }
                 },
@@ -597,7 +597,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R1.Rs_PalletPosition"
                     }
                 },
@@ -608,7 +608,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1400]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2.8)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1400]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2.8)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B2.CB5_Pos1"
                     }
                 },
@@ -619,7 +619,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP2.PPs_PalletPosition"
                     }
                 },
@@ -630,7 +630,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP3.PPs_PalletPosition"
                     }
                 },
@@ -641,7 +641,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI2.PIs_PalletPosition"
                     }
                 },
@@ -652,7 +652,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R2.Rs_PalletPosition"
                     }
                 },
@@ -663,7 +663,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1400]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2.8)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1400]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2.8)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B3.CB5_Pos1"
                     }
                 },
@@ -674,7 +674,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP4.PPs_PalletPosition"
                     }
                 },
@@ -685,7 +685,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI3.PIs_PalletPosition"
                     }
                 },
@@ -696,7 +696,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R3.Rs_PalletPosition"
                     }
                 },
@@ -707,7 +707,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1400]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2.8)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1400]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2.8)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B4.CB5_Pos1"
                     }
                 },
@@ -718,7 +718,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP5.PP2s_PalletPosition"
                     }
                 },
@@ -729,7 +729,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI4.PIs_PalletPosition"
                     }
                 },
@@ -740,7 +740,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R4.Rs_PalletPosition"
                     }
                 },
@@ -751,7 +751,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#C1.ICs_PalletPosition"
                     }
                 },
@@ -762,7 +762,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB1.CBs_PalletPosition"
                     }
                 },
@@ -818,7 +818,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1370.4]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2.7408)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1370.4]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2.7408)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B1.CB5_Pos3"
                     }
                 },
@@ -829,7 +829,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][200]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.4)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][200]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.4)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B1.CB5_Pos2"
                     }
                 },
@@ -840,7 +840,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][200]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.4)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][200]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.4)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B1.CB5_Pos1"
                     }
                 },
@@ -851,7 +851,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP1.PPs_PalletPosition"
                     }
                 },
@@ -862,7 +862,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI1.PIs_PalletPosition"
                     }
                 },
@@ -873,7 +873,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R1.Rs_PalletPosition"
                     }
                 },
@@ -884,7 +884,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1400]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2.8)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1400]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2.8)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B2.CB5_Pos1"
                     }
                 },
@@ -895,7 +895,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP2.PPs_PalletPosition"
                     }
                 },
@@ -906,7 +906,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP3.PPs_PalletPosition"
                     }
                 },
@@ -917,7 +917,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI2.PIs_PalletPosition"
                     }
                 },
@@ -928,7 +928,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R2.Rs_PalletPosition"
                     }
                 },
@@ -939,7 +939,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1400]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2.8)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1400]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2.8)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B3.CB5_Pos1"
                     }
                 },
@@ -950,7 +950,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP4.PPs_PalletPosition"
                     }
                 },
@@ -961,7 +961,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI3.PIs_PalletPosition"
                     }
                 },
@@ -972,7 +972,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R3.Rs_PalletPosition"
                     }
                 },
@@ -983,7 +983,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1400]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2.8)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1400]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2.8)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B4.CB5_Pos1"
                     }
                 },
@@ -994,7 +994,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][600]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(1.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP5.PP2s_PalletPosition"
                     }
                 },
@@ -1005,7 +1005,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI4.PIs_PalletPosition"
                     }
                 },
@@ -1016,7 +1016,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R4.Rs_PalletPosition"
                     }
                 },
@@ -1027,7 +1027,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#C1.ICs_PalletPosition"
                     }
                 },
@@ -1038,7 +1038,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][1000]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB1.CBs_PalletPosition"
                     }
                 },
@@ -1099,7 +1099,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][-0.22][-47.11]-[0][-0.22][-47.11]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][-0.22][-47.11]-[0][-0.22][-47.11]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_1"
                     }
                 }
@@ -1141,7 +1141,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][3][8]-[0][3][8]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][3][8]-[0][3][8]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_1"
                     }
                 }
@@ -1183,7 +1183,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][8.42][-45.43]-[0][8.42][-45.43]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][8.42][-45.43]-[0][8.42][-45.43]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_1"
                     }
                 }
@@ -1220,7 +1220,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-9.5][22.02][-44.18]-[-1][22.02][-44.18]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-9.5][22.02][-44.18]-[-1][22.02][-44.18]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_1"
                     }
                 }
@@ -1257,7 +1257,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-10.5][5.7][12]-[0][5.7][12]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-10.5][5.7][12]-[0][5.7][12]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_1"
                     }
                 }
@@ -1299,7 +1299,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][12.26][-37.35]-[0][12.26][-37.35]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][12.26][-37.35]-[0][12.26][-37.35]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_1"
                     }
                 }
@@ -1326,7 +1326,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][80]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.16)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][80]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.16)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW1.WC1s_WorkingPos"
                     }
                 },
@@ -1377,7 +1377,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-154.02][313.86][-42.5]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.704376)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-154.02][313.86][-42.5]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.704376)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB1.CBs_Buffer10"
                     }
                 },
@@ -1388,7 +1388,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[120][0][150]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.384187)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[120][0][150]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.384187)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB1.CBs_Buffer3"
                     }
                 }
@@ -1405,7 +1405,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R2][R2.Rs_FloatingX1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R2][R2.Rs_FloatingX1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R2.Rs_Static"
                     }
                 },
@@ -1416,7 +1416,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R2][R2.Rs_FloatingX1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R2][R2.Rs_FloatingX1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R2.Rs_Static"
                     }
                 },
@@ -1427,7 +1427,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R2][R2.Rs_FloatingX1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R2][R2.Rs_FloatingX1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R2.Rs_Static"
                     }
                 },
@@ -1438,7 +1438,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R2][R2.Rs_FloatingX1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R2][R2.Rs_FloatingX1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R2.Rs_Static"
                     }
                 }
@@ -1455,7 +1455,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP2][PP2.PPs_Gripper2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP2][PP2.PPs_Gripper2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP2.PPs_FloatingY"
                     }
                 },
@@ -1466,7 +1466,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP2][PP2.PPs_Gripper2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP2][PP2.PPs_Gripper2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP2.PPs_FloatingY"
                     }
                 },
@@ -1477,7 +1477,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP2][PP2.PPs_Gripper2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP2][PP2.PPs_Gripper2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP2.PPs_FloatingY"
                     }
                 },
@@ -1488,7 +1488,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP2][PP2.PPs_Gripper2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP2][PP2.PPs_Gripper2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP2.PPs_FloatingY"
                     }
                 }
@@ -1505,7 +1505,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R2][R2.Rs_FloatingX2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R2][R2.Rs_FloatingX2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R2.Rs_Static"
                     }
                 },
@@ -1516,7 +1516,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R2][R2.Rs_FloatingX2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R2][R2.Rs_FloatingX2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R2.Rs_Static"
                     }
                 },
@@ -1527,7 +1527,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R2][R2.Rs_FloatingX2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R2][R2.Rs_FloatingX2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R2.Rs_Static"
                     }
                 },
@@ -1538,7 +1538,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R2][R2.Rs_FloatingX2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R2][R2.Rs_FloatingX2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R2.Rs_Static"
                     }
                 }
@@ -1555,7 +1555,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R1][R1.Rs_FloatingX2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R1][R1.Rs_FloatingX2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R1.Rs_Static"
                     }
                 },
@@ -1566,7 +1566,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R1][R1.Rs_FloatingX2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R1][R1.Rs_FloatingX2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R1.Rs_Static"
                     }
                 },
@@ -1577,7 +1577,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R1][R1.Rs_FloatingX2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R1][R1.Rs_FloatingX2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R1.Rs_Static"
                     }
                 },
@@ -1588,7 +1588,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R1][R1.Rs_FloatingX2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R1][R1.Rs_FloatingX2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R1.Rs_Static"
                     }
                 }
@@ -1605,7 +1605,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R1][R1.Rs_FloatingX1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R1][R1.Rs_FloatingX1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R1.Rs_Static"
                     }
                 },
@@ -1616,7 +1616,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R1][R1.Rs_FloatingX1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R1][R1.Rs_FloatingX1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R1.Rs_Static"
                     }
                 },
@@ -1627,7 +1627,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R1][R1.Rs_FloatingX1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R1][R1.Rs_FloatingX1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R1.Rs_Static"
                     }
                 },
@@ -1638,7 +1638,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R1][R1.Rs_FloatingX1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R1][R1.Rs_FloatingX1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R1.Rs_Static"
                     }
                 }
@@ -1655,7 +1655,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PI2][PI2.PIs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PI2][PI2.PIs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI2.PIs_Static"
                     }
                 },
@@ -1666,7 +1666,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PI2][PI2.PIs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PI2][PI2.PIs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI2.PIs_Static"
                     }
                 },
@@ -1677,7 +1677,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PI2][PI2.PIs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PI2][PI2.PIs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI2.PIs_Static"
                     }
                 },
@@ -1688,7 +1688,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PI2][PI2.PIs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PI2][PI2.PIs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI2.PIs_Static"
                     }
                 }
@@ -1705,7 +1705,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP3][PP3.PPs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP3][PP3.PPs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP3.PPs_Static"
                     }
                 },
@@ -1716,7 +1716,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP3][PP3.PPs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP3][PP3.PPs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP3.PPs_Static"
                     }
                 },
@@ -1727,7 +1727,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP3][PP3.PPs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP3][PP3.PPs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP3.PPs_Static"
                     }
                 },
@@ -1738,7 +1738,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP3][PP3.PPs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP3][PP3.PPs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP3.PPs_Static"
                     }
                 }
@@ -1755,7 +1755,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP3][PP3.PPs_Gripper2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP3][PP3.PPs_Gripper2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP3.PPs_FloatingY"
                     }
                 },
@@ -1766,7 +1766,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP3][PP3.PPs_Gripper2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP3][PP3.PPs_Gripper2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP3.PPs_FloatingY"
                     }
                 },
@@ -1777,7 +1777,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP3][PP3.PPs_Gripper2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP3][PP3.PPs_Gripper2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP3.PPs_FloatingY"
                     }
                 },
@@ -1788,7 +1788,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP3][PP3.PPs_Gripper2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP3][PP3.PPs_Gripper2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP3.PPs_FloatingY"
                     }
                 }
@@ -1805,7 +1805,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP2][PP2.PPs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP2][PP2.PPs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP2.PPs_Static"
                     }
                 },
@@ -1816,7 +1816,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP2][PP2.PPs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP2][PP2.PPs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP2.PPs_Static"
                     }
                 },
@@ -1827,7 +1827,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP2][PP2.PPs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP2][PP2.PPs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP2.PPs_Static"
                     }
                 },
@@ -1838,7 +1838,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP2][PP2.PPs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP2][PP2.PPs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP2.PPs_Static"
                     }
                 }
@@ -1855,7 +1855,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP2][PP2.PPs_FloatingY][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP2][PP2.PPs_FloatingY][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP2.PPs_FloatingZ"
                     }
                 },
@@ -1866,7 +1866,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP2][PP2.PPs_FloatingY][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP2][PP2.PPs_FloatingY][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP2.PPs_FloatingZ"
                     }
                 },
@@ -1877,7 +1877,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP2][PP2.PPs_FloatingY][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP2][PP2.PPs_FloatingY][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP2.PPs_FloatingZ"
                     }
                 },
@@ -1888,7 +1888,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP2][PP2.PPs_FloatingY][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP2][PP2.PPs_FloatingY][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP2.PPs_FloatingZ"
                     }
                 }
@@ -1905,7 +1905,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP3][PP3.PPs_FloatingZ][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP3][PP3.PPs_FloatingZ][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP3.PPs_FloatingX"
                     }
                 },
@@ -1916,7 +1916,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP3][PP3.PPs_FloatingZ][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP3][PP3.PPs_FloatingZ][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP3.PPs_FloatingX"
                     }
                 },
@@ -1927,7 +1927,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP3][PP3.PPs_FloatingZ][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP3][PP3.PPs_FloatingZ][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP3.PPs_FloatingX"
                     }
                 },
@@ -1938,7 +1938,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP3][PP3.PPs_FloatingZ][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP3][PP3.PPs_FloatingZ][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP3.PPs_FloatingX"
                     }
                 }
@@ -1955,7 +1955,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP2][PP2.PPs_FloatingZ][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP2][PP2.PPs_FloatingZ][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP2.PPs_FloatingX"
                     }
                 },
@@ -1966,7 +1966,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP2][PP2.PPs_FloatingZ][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP2][PP2.PPs_FloatingZ][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP2.PPs_FloatingX"
                     }
                 },
@@ -1977,7 +1977,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP2][PP2.PPs_FloatingZ][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP2][PP2.PPs_FloatingZ][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP2.PPs_FloatingX"
                     }
                 },
@@ -1988,7 +1988,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP2][PP2.PPs_FloatingZ][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP2][PP2.PPs_FloatingZ][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP2.PPs_FloatingX"
                     }
                 }
@@ -2005,7 +2005,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP3][PP3.PPs_FloatingY][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP3][PP3.PPs_FloatingY][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP3.PPs_FloatingZ"
                     }
                 },
@@ -2016,7 +2016,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP3][PP3.PPs_FloatingY][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP3][PP3.PPs_FloatingY][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP3.PPs_FloatingZ"
                     }
                 },
@@ -2027,7 +2027,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP3][PP3.PPs_FloatingY][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP3][PP3.PPs_FloatingY][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP3.PPs_FloatingZ"
                     }
                 },
@@ -2038,7 +2038,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP3][PP3.PPs_FloatingY][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP3][PP3.PPs_FloatingY][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP3.PPs_FloatingZ"
                     }
                 }
@@ -2055,7 +2055,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP2][PP2.PPs_Gripper1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP2][PP2.PPs_Gripper1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP2.PPs_FloatingY"
                     }
                 },
@@ -2066,7 +2066,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP2][PP2.PPs_Gripper1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP2][PP2.PPs_Gripper1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP2.PPs_FloatingY"
                     }
                 },
@@ -2077,7 +2077,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP2][PP2.PPs_Gripper1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP2][PP2.PPs_Gripper1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP2.PPs_FloatingY"
                     }
                 },
@@ -2088,7 +2088,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP2][PP2.PPs_Gripper1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP2][PP2.PPs_Gripper1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP2.PPs_FloatingY"
                     }
                 }
@@ -2105,7 +2105,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PI1][PI1.PIs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PI1][PI1.PIs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI1.PIs_Static"
                     }
                 },
@@ -2116,7 +2116,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PI1][PI1.PIs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PI1][PI1.PIs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI1.PIs_Static"
                     }
                 },
@@ -2127,7 +2127,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PI1][PI1.PIs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PI1][PI1.PIs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI1.PIs_Static"
                     }
                 },
@@ -2138,7 +2138,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PI1][PI1.PIs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PI1][PI1.PIs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI1.PIs_Static"
                     }
                 }
@@ -2155,7 +2155,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP3][PP3.PPs_Gripper1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP3][PP3.PPs_Gripper1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP3.PPs_FloatingY"
                     }
                 },
@@ -2166,7 +2166,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP3][PP3.PPs_Gripper1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP3][PP3.PPs_Gripper1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP3.PPs_FloatingY"
                     }
                 },
@@ -2177,7 +2177,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP3][PP3.PPs_Gripper1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP3][PP3.PPs_Gripper1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP3.PPs_FloatingY"
                     }
                 },
@@ -2188,7 +2188,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP3][PP3.PPs_Gripper1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP3][PP3.PPs_Gripper1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP3.PPs_FloatingY"
                     }
                 }
@@ -2205,7 +2205,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PPW1][PPW1.WC1s_FloatingY][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PPW1][PPW1.WC1s_FloatingY][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW1.WC1s_Static"
                     }
                 },
@@ -2216,7 +2216,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PPW1][PPW1.WC1s_FloatingY][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PPW1][PPW1.WC1s_FloatingY][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW1.WC1s_Static"
                     }
                 },
@@ -2227,7 +2227,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PPW1][PPW1.WC1s_FloatingY][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PPW1][PPW1.WC1s_FloatingY][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW1.WC1s_Static"
                     }
                 },
@@ -2238,7 +2238,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PPW1][PPW1.WC1s_FloatingY][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PPW1][PPW1.WC1s_FloatingY][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW1.WC1s_Static"
                     }
                 }
@@ -2255,7 +2255,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP1][PP1.PPs_FloatingY][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP1][PP1.PPs_FloatingY][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP1.PPs_FloatingZ"
                     }
                 },
@@ -2266,7 +2266,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP1][PP1.PPs_FloatingY][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP1][PP1.PPs_FloatingY][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP1.PPs_FloatingZ"
                     }
                 },
@@ -2277,7 +2277,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP1][PP1.PPs_FloatingY][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP1][PP1.PPs_FloatingY][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP1.PPs_FloatingZ"
                     }
                 },
@@ -2288,7 +2288,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP1][PP1.PPs_FloatingY][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP1][PP1.PPs_FloatingY][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP1.PPs_FloatingZ"
                     }
                 }
@@ -2305,7 +2305,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP1][PP1.PPs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP1][PP1.PPs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP1.PPs_Static"
                     }
                 },
@@ -2316,7 +2316,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP1][PP1.PPs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP1][PP1.PPs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP1.PPs_Static"
                     }
                 },
@@ -2327,7 +2327,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP1][PP1.PPs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP1][PP1.PPs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP1.PPs_Static"
                     }
                 },
@@ -2338,7 +2338,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP1][PP1.PPs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP1][PP1.PPs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP1.PPs_Static"
                     }
                 }
@@ -2355,7 +2355,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PPW1][PPW1.WC1s_Gripper2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PPW1][PPW1.WC1s_Gripper2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW1.WC1s_FloatingX"
                     }
                 },
@@ -2366,7 +2366,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PPW1][PPW1.WC1s_Gripper2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PPW1][PPW1.WC1s_Gripper2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW1.WC1s_FloatingX"
                     }
                 },
@@ -2377,7 +2377,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PPW1][PPW1.WC1s_Gripper2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PPW1][PPW1.WC1s_Gripper2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW1.WC1s_FloatingX"
                     }
                 },
@@ -2388,7 +2388,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PPW1][PPW1.WC1s_Gripper2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PPW1][PPW1.WC1s_Gripper2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW1.WC1s_FloatingX"
                     }
                 }
@@ -2405,7 +2405,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP1][PP1.PPs_FloatingZ][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP1][PP1.PPs_FloatingZ][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP1.PPs_FloatingX"
                     }
                 },
@@ -2416,7 +2416,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP1][PP1.PPs_FloatingZ][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP1][PP1.PPs_FloatingZ][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP1.PPs_FloatingX"
                     }
                 },
@@ -2427,7 +2427,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP1][PP1.PPs_FloatingZ][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP1][PP1.PPs_FloatingZ][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP1.PPs_FloatingX"
                     }
                 },
@@ -2438,7 +2438,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP1][PP1.PPs_FloatingZ][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP1][PP1.PPs_FloatingZ][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP1.PPs_FloatingX"
                     }
                 }
@@ -2455,7 +2455,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP1][PP1.PPs_Gripper1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP1][PP1.PPs_Gripper1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP1.PPs_FloatingY"
                     }
                 },
@@ -2466,7 +2466,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP1][PP1.PPs_Gripper1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP1][PP1.PPs_Gripper1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP1.PPs_FloatingY"
                     }
                 },
@@ -2477,7 +2477,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP1][PP1.PPs_Gripper1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP1][PP1.PPs_Gripper1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP1.PPs_FloatingY"
                     }
                 },
@@ -2488,7 +2488,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP1][PP1.PPs_Gripper1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP1][PP1.PPs_Gripper1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP1.PPs_FloatingY"
                     }
                 }
@@ -2505,7 +2505,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP1][PP1.PPs_Gripper2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP1][PP1.PPs_Gripper2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP1.PPs_FloatingY"
                     }
                 },
@@ -2516,7 +2516,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP1][PP1.PPs_Gripper2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP1][PP1.PPs_Gripper2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP1.PPs_FloatingY"
                     }
                 },
@@ -2527,7 +2527,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP1][PP1.PPs_Gripper2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP1][PP1.PPs_Gripper2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP1.PPs_FloatingY"
                     }
                 },
@@ -2538,7 +2538,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP1][PP1.PPs_Gripper2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP1][PP1.PPs_Gripper2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP1.PPs_FloatingY"
                     }
                 }
@@ -2555,7 +2555,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PPW1][PPW1.WC1s_Gripper1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PPW1][PPW1.WC1s_Gripper1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW1.WC1s_FloatingX"
                     }
                 },
@@ -2566,7 +2566,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PPW1][PPW1.WC1s_Gripper1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PPW1][PPW1.WC1s_Gripper1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW1.WC1s_FloatingX"
                     }
                 },
@@ -2577,7 +2577,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PPW1][PPW1.WC1s_Gripper1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PPW1][PPW1.WC1s_Gripper1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW1.WC1s_FloatingX"
                     }
                 },
@@ -2588,7 +2588,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PPW1][PPW1.WC1s_Gripper1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PPW1][PPW1.WC1s_Gripper1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW1.WC1s_FloatingX"
                     }
                 }
@@ -2605,7 +2605,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PPW1][PPW1.WC1s_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PPW1][PPW1.WC1s_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW1.WC1s_FloatingY"
                     }
                 },
@@ -2616,7 +2616,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PPW1][PPW1.WC1s_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PPW1][PPW1.WC1s_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW1.WC1s_FloatingY"
                     }
                 },
@@ -2627,7 +2627,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PPW1][PPW1.WC1s_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PPW1][PPW1.WC1s_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW1.WC1s_FloatingY"
                     }
                 },
@@ -2638,7 +2638,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PPW1][PPW1.WC1s_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PPW1][PPW1.WC1s_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW1.WC1s_FloatingY"
                     }
                 }
@@ -3818,7 +3818,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP4][PP4.PPs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP4][PP4.PPs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP4.PPs_Static"
                     }
                 },
@@ -3829,7 +3829,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP4][PP4.PPs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP4][PP4.PPs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP4.PPs_Static"
                     }
                 },
@@ -3840,7 +3840,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP4][PP4.PPs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP4][PP4.PPs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP4.PPs_Static"
                     }
                 },
@@ -3851,7 +3851,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP4][PP4.PPs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP4][PP4.PPs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP4.PPs_Static"
                     }
                 }
@@ -3868,7 +3868,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PI4][PI4.PIs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PI4][PI4.PIs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI4.PIs_Static"
                     }
                 },
@@ -3879,7 +3879,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PI4][PI4.PIs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PI4][PI4.PIs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI4.PIs_Static"
                     }
                 },
@@ -3890,7 +3890,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PI4][PI4.PIs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PI4][PI4.PIs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI4.PIs_Static"
                     }
                 },
@@ -3901,7 +3901,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PI4][PI4.PIs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PI4][PI4.PIs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI4.PIs_Static"
                     }
                 }
@@ -3918,7 +3918,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP5][PP5.PP2s_Gripper1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP5][PP5.PP2s_Gripper1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP5.PP2s_FloatingY"
                     }
                 },
@@ -3929,7 +3929,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP5][PP5.PP2s_Gripper1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP5][PP5.PP2s_Gripper1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP5.PP2s_FloatingY"
                     }
                 },
@@ -3940,7 +3940,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP5][PP5.PP2s_Gripper1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP5][PP5.PP2s_Gripper1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP5.PP2s_FloatingY"
                     }
                 },
@@ -3951,7 +3951,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP5][PP5.PP2s_Gripper1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP5][PP5.PP2s_Gripper1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP5.PP2s_FloatingY"
                     }
                 }
@@ -3968,7 +3968,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PI3][PI3.PIs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PI3][PI3.PIs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI3.PIs_Static"
                     }
                 },
@@ -3979,7 +3979,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PI3][PI3.PIs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PI3][PI3.PIs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI3.PIs_Static"
                     }
                 },
@@ -3990,7 +3990,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PI3][PI3.PIs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PI3][PI3.PIs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI3.PIs_Static"
                     }
                 },
@@ -4001,7 +4001,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PI3][PI3.PIs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PI3][PI3.PIs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI3.PIs_Static"
                     }
                 }
@@ -4018,7 +4018,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R4][R4.Rs_FloatingX1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R4][R4.Rs_FloatingX1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R4.Rs_Static"
                     }
                 },
@@ -4029,7 +4029,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R4][R4.Rs_FloatingX1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R4][R4.Rs_FloatingX1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R4.Rs_Static"
                     }
                 },
@@ -4040,7 +4040,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R4][R4.Rs_FloatingX1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R4][R4.Rs_FloatingX1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R4.Rs_Static"
                     }
                 },
@@ -4051,7 +4051,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R4][R4.Rs_FloatingX1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R4][R4.Rs_FloatingX1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R4.Rs_Static"
                     }
                 }
@@ -4068,7 +4068,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R4][R4.Rs_FloatingX2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R4][R4.Rs_FloatingX2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R4.Rs_Static"
                     }
                 },
@@ -4079,7 +4079,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R4][R4.Rs_FloatingX2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R4][R4.Rs_FloatingX2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R4.Rs_Static"
                     }
                 },
@@ -4090,7 +4090,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R4][R4.Rs_FloatingX2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R4][R4.Rs_FloatingX2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R4.Rs_Static"
                     }
                 },
@@ -4101,7 +4101,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R4][R4.Rs_FloatingX2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R4][R4.Rs_FloatingX2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R4.Rs_Static"
                     }
                 }
@@ -4118,7 +4118,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP5][PP5.PP2s_FloatingY][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP5][PP5.PP2s_FloatingY][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP5.PP2s_FloatingZ"
                     }
                 },
@@ -4129,7 +4129,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP5][PP5.PP2s_FloatingY][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP5][PP5.PP2s_FloatingY][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP5.PP2s_FloatingZ"
                     }
                 },
@@ -4140,7 +4140,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP5][PP5.PP2s_FloatingY][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP5][PP5.PP2s_FloatingY][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP5.PP2s_FloatingZ"
                     }
                 },
@@ -4151,7 +4151,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP5][PP5.PP2s_FloatingY][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP5][PP5.PP2s_FloatingY][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP5.PP2s_FloatingZ"
                     }
                 }
@@ -4168,7 +4168,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP4][PP4.PPs_FloatingZ][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP4][PP4.PPs_FloatingZ][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP4.PPs_FloatingX"
                     }
                 },
@@ -4179,7 +4179,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP4][PP4.PPs_FloatingZ][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP4][PP4.PPs_FloatingZ][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP4.PPs_FloatingX"
                     }
                 },
@@ -4190,7 +4190,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP4][PP4.PPs_FloatingZ][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP4][PP4.PPs_FloatingZ][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP4.PPs_FloatingX"
                     }
                 },
@@ -4201,7 +4201,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP4][PP4.PPs_FloatingZ][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP4][PP4.PPs_FloatingZ][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP4.PPs_FloatingX"
                     }
                 }
@@ -4218,7 +4218,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R3][R3.Rs_FloatingX1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R3][R3.Rs_FloatingX1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R3.Rs_Static"
                     }
                 },
@@ -4229,7 +4229,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R3][R3.Rs_FloatingX1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R3][R3.Rs_FloatingX1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R3.Rs_Static"
                     }
                 },
@@ -4240,7 +4240,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R3][R3.Rs_FloatingX1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R3][R3.Rs_FloatingX1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R3.Rs_Static"
                     }
                 },
@@ -4251,7 +4251,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R3][R3.Rs_FloatingX1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R3][R3.Rs_FloatingX1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R3.Rs_Static"
                     }
                 }
@@ -4268,7 +4268,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP4][PP4.PPs_FloatingY][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP4][PP4.PPs_FloatingY][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP4.PPs_FloatingZ"
                     }
                 },
@@ -4279,7 +4279,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP4][PP4.PPs_FloatingY][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP4][PP4.PPs_FloatingY][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP4.PPs_FloatingZ"
                     }
                 },
@@ -4290,7 +4290,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP4][PP4.PPs_FloatingY][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP4][PP4.PPs_FloatingY][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP4.PPs_FloatingZ"
                     }
                 },
@@ -4301,7 +4301,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP4][PP4.PPs_FloatingY][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP4][PP4.PPs_FloatingY][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP4.PPs_FloatingZ"
                     }
                 }
@@ -4318,7 +4318,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R3][R3.Rs_FloatingX2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R3][R3.Rs_FloatingX2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R3.Rs_Static"
                     }
                 },
@@ -4329,7 +4329,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R3][R3.Rs_FloatingX2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R3][R3.Rs_FloatingX2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R3.Rs_Static"
                     }
                 },
@@ -4340,7 +4340,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R3][R3.Rs_FloatingX2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R3][R3.Rs_FloatingX2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R3.Rs_Static"
                     }
                 },
@@ -4351,7 +4351,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[R3][R3.Rs_FloatingX2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[R3][R3.Rs_FloatingX2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R3.Rs_Static"
                     }
                 }
@@ -4368,7 +4368,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP5][PP5.PP2s_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP5][PP5.PP2s_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP5.PP2s_Static"
                     }
                 },
@@ -4379,7 +4379,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP5][PP5.PP2s_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP5][PP5.PP2s_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP5.PP2s_Static"
                     }
                 },
@@ -4390,7 +4390,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP5][PP5.PP2s_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP5][PP5.PP2s_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP5.PP2s_Static"
                     }
                 },
@@ -4401,7 +4401,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP5][PP5.PP2s_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP5][PP5.PP2s_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP5.PP2s_Static"
                     }
                 }
@@ -4418,7 +4418,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP5][PP5.PP2s_FloatingZ][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP5][PP5.PP2s_FloatingZ][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP5.PP2s_FloatingX"
                     }
                 },
@@ -4429,7 +4429,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP5][PP5.PP2s_FloatingZ][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP5][PP5.PP2s_FloatingZ][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP5.PP2s_FloatingX"
                     }
                 },
@@ -4440,7 +4440,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP5][PP5.PP2s_FloatingZ][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP5][PP5.PP2s_FloatingZ][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP5.PP2s_FloatingX"
                     }
                 },
@@ -4451,7 +4451,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP5][PP5.PP2s_FloatingZ][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP5][PP5.PP2s_FloatingZ][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP5.PP2s_FloatingX"
                     }
                 }
@@ -4468,7 +4468,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP4][PP4.PPs_Gripper2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP4][PP4.PPs_Gripper2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP4.PPs_FloatingY"
                     }
                 },
@@ -4479,7 +4479,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP4][PP4.PPs_Gripper2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP4][PP4.PPs_Gripper2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP4.PPs_FloatingY"
                     }
                 },
@@ -4490,7 +4490,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP4][PP4.PPs_Gripper2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP4][PP4.PPs_Gripper2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP4.PPs_FloatingY"
                     }
                 },
@@ -4501,7 +4501,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP4][PP4.PPs_Gripper2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP4][PP4.PPs_Gripper2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP4.PPs_FloatingY"
                     }
                 }
@@ -4518,7 +4518,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP4][PP4.PPs_Gripper1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP4][PP4.PPs_Gripper1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP4.PPs_FloatingY"
                     }
                 },
@@ -4529,7 +4529,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP4][PP4.PPs_Gripper1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP4][PP4.PPs_Gripper1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP4.PPs_FloatingY"
                     }
                 },
@@ -4540,7 +4540,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP4][PP4.PPs_Gripper1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP4][PP4.PPs_Gripper1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP4.PPs_FloatingY"
                     }
                 },
@@ -4551,7 +4551,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP4][PP4.PPs_Gripper1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP4][PP4.PPs_Gripper1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP4.PPs_FloatingY"
                     }
                 }
@@ -4568,7 +4568,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP5][PP5.PP2s_Gripper2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP5][PP5.PP2s_Gripper2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP5.PP2s_FloatingY"
                     }
                 },
@@ -4579,7 +4579,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP5][PP5.PP2s_Gripper2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP5][PP5.PP2s_Gripper2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP5.PP2s_FloatingY"
                     }
                 },
@@ -4590,7 +4590,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP5][PP5.PP2s_Gripper2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP5][PP5.PP2s_Gripper2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP5.PP2s_FloatingY"
                     }
                 },
@@ -4601,7 +4601,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[PP5][PP5.PP2s_Gripper2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[PP5][PP5.PP2s_Gripper2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP5.PP2s_FloatingY"
                     }
                 }
@@ -4618,7 +4618,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[CB1][CB1.CBs_Gripper1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[CB1][CB1.CBs_Gripper1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB1.CBs_FloatingX"
                     }
                 },
@@ -4629,7 +4629,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[CB1][CB1.CBs_Gripper1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[CB1][CB1.CBs_Gripper1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB1.CBs_FloatingX"
                     }
                 },
@@ -4640,7 +4640,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[CB1][CB1.CBs_Gripper1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[CB1][CB1.CBs_Gripper1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB1.CBs_FloatingX"
                     }
                 },
@@ -4651,7 +4651,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[CB1][CB1.CBs_Gripper1][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[CB1][CB1.CBs_Gripper1][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB1.CBs_FloatingX"
                     }
                 }
@@ -4668,7 +4668,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[CB1][CB1.CBs_FloatingY][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[CB1][CB1.CBs_FloatingY][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB1.CBs_Static"
                     }
                 },
@@ -4679,7 +4679,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[CB1][CB1.CBs_FloatingY][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[CB1][CB1.CBs_FloatingY][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB1.CBs_Static"
                     }
                 },
@@ -4690,7 +4690,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[CB1][CB1.CBs_FloatingY][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[CB1][CB1.CBs_FloatingY][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB1.CBs_Static"
                     }
                 },
@@ -4701,7 +4701,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[CB1][CB1.CBs_FloatingY][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[CB1][CB1.CBs_FloatingY][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB1.CBs_Static"
                     }
                 }
@@ -4718,7 +4718,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[CB1][CB1.CBs_Gripper2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[CB1][CB1.CBs_Gripper2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB1.CBs_FloatingX"
                     }
                 },
@@ -4729,7 +4729,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[CB1][CB1.CBs_Gripper2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[CB1][CB1.CBs_Gripper2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB1.CBs_FloatingX"
                     }
                 },
@@ -4740,7 +4740,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[CB1][CB1.CBs_Gripper2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[CB1][CB1.CBs_Gripper2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB1.CBs_FloatingX"
                     }
                 },
@@ -4751,7 +4751,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[CB1][CB1.CBs_Gripper2][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[CB1][CB1.CBs_Gripper2][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB1.CBs_FloatingX"
                     }
                 }
@@ -4768,7 +4768,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[CB1][CB1.CBs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[CB1][CB1.CBs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB1.CBs_FloatingY"
                     }
                 },
@@ -4779,7 +4779,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[CB1][CB1.CBs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[CB1][CB1.CBs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB1.CBs_FloatingY"
                     }
                 },
@@ -4790,7 +4790,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[CB1][CB1.CBs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[CB1][CB1.CBs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB1.CBs_FloatingY"
                     }
                 },
@@ -4801,7 +4801,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/[CB1][CB1.CBs_FloatingX][working]_anim_predef.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/[CB1][CB1.CBs_FloatingX][working]_anim_predef.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB1.CBs_FloatingY"
                     }
                 }
@@ -5222,7 +5222,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-9.5][22.02][-44.18]-[-1][22.02][-44.18]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-9.5][22.02][-44.18]-[-1][22.02][-44.18]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_3"
                     }
                 }
@@ -5249,7 +5249,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][80]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.16)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][80]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.16)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW1.WC1s_RestingPos1"
                     }
                 },
@@ -5260,7 +5260,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][80]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.16)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][80]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.16)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW1.WC1s_WorkingPos"
                     }
                 },
@@ -5311,7 +5311,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-34.02][313.86][-92.5]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.657941)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-34.02][313.86][-92.5]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.657941)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB1.CBs_Buffer1"
                     }
                 },
@@ -5322,7 +5322,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-120][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.24)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-120][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.24)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB1.CBs_Buffer4"
                     }
                 }
@@ -5349,7 +5349,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP3.PPs_LC_Pos2"
                     }
                 },
@@ -5360,7 +5360,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP3.PPs_LC_Pos1"
                     }
                 },
@@ -5386,7 +5386,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][6.25][-38.68]-[0][6.25][-38.68]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][6.25][-38.68]-[0][6.25][-38.68]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_3"
                     }
                 }
@@ -5423,7 +5423,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-7.5][2][-35.02]-[0][2][-35]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-7.5][2][-35.02]-[0][2][-35]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_1"
                     }
                 }
@@ -5466,7 +5466,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP2.PPs_LC_Pos2"
                     }
                 },
@@ -5477,7 +5477,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP2.PPs_LC_Pos1"
                     }
                 },
@@ -5503,7 +5503,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][8.42][-45.43]-[0][8.42][-45.43]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][8.42][-45.43]-[0][8.42][-45.43]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_3"
                     }
                 }
@@ -5551,7 +5551,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-84.4][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.3376)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-84.4][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.3376)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP5.PP2s_LC_Pos1"
                     }
                 },
@@ -5577,7 +5577,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][-0.22][-47.11]-[0][-0.22][-47.11]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][-0.22][-47.11]-[0][-0.22][-47.11]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_2"
                     }
                 }
@@ -5614,7 +5614,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-10.5][5.7][12]-[0][5.7][12]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-10.5][5.7][12]-[0][5.7][12]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_2"
                     }
                 }
@@ -5657,7 +5657,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP1.PPs_LC_Pos1"
                     }
                 },
@@ -5683,7 +5683,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][3][8]-[0][3][8]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][3][8]-[0][3][8]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_2"
                     }
                 }
@@ -5720,7 +5720,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-8.5][9.5][-25]-[0][9.5][-25]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-8.5][9.5][-25]-[0][9.5][-25]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_2"
                     }
                 }
@@ -5747,7 +5747,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP3.PPs_LC_Pos1"
                     }
                 },
@@ -5773,7 +5773,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][6.25][-38.68]-[0][6.25][-38.68]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][6.25][-38.68]-[0][6.25][-38.68]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_2"
                     }
                 }
@@ -5800,7 +5800,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP2.PPs_LC_Pos1"
                     }
                 },
@@ -5826,7 +5826,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][8.42][-45.43]-[0][8.42][-45.43]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][8.42][-45.43]-[0][8.42][-45.43]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_2"
                     }
                 }
@@ -5853,7 +5853,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][80]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.16)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][80]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.16)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW1.WC1s_RestingPos2"
                     }
                 },
@@ -5864,7 +5864,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][80]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.16)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][80]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.16)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW1.WC1s_RestingPos1"
                     }
                 },
@@ -5875,7 +5875,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][80]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.16)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][80]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.16)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW1.WC1s_WorkingPos"
                     }
                 },
@@ -5926,7 +5926,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-154.02][313.86][7.5]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.69939)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-154.02][313.86][7.5]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.69939)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB1.CBs_Buffer2"
                     }
                 },
@@ -5937,7 +5937,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[120][0][-100]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.31241)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[120][0][-100]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.31241)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB1.CBs_Buffer1"
                     }
                 }
@@ -5974,7 +5974,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-8.5][9.5][-25]-[0][9.5][-25]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-8.5][9.5][-25]-[0][9.5][-25]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_1"
                     }
                 }
@@ -6001,7 +6001,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP1.PPs_LC_Pos2"
                     }
                 },
@@ -6012,7 +6012,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP1.PPs_LC_Pos1"
                     }
                 },
@@ -6038,7 +6038,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][3][8]-[0][3][8]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][3][8]-[0][3][8]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_3"
                     }
                 }
@@ -6075,7 +6075,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-10.5][5.7][12]-[0][5.7][12]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-10.5][5.7][12]-[0][5.7][12]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_3"
                     }
                 }
@@ -6112,7 +6112,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-7.5][2][-35.02]-[0][2][-35]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-7.5][2][-35.02]-[0][2][-35]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_3"
                     }
                 }
@@ -6154,7 +6154,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][6.25][-38.68]-[0][6.25][-38.68]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][6.25][-38.68]-[0][6.25][-38.68]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_1"
                     }
                 }
@@ -6191,7 +6191,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-8.5][9.5][-25]-[0][9.5][-25]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-8.5][9.5][-25]-[0][9.5][-25]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_3"
                     }
                 }
@@ -6239,7 +6239,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][80]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.16)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][80]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.16)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW1.WC1s_RestingPos3"
                     }
                 },
@@ -6250,7 +6250,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][80]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.16)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][80]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.16)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW1.WC1s_RestingPos2"
                     }
                 },
@@ -6261,7 +6261,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][80]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.16)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][80]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.16)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW1.WC1s_RestingPos1"
                     }
                 },
@@ -6272,7 +6272,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][80]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.16)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][80]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.16)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW1.WC1s_WorkingPos"
                     }
                 },
@@ -6323,7 +6323,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-154.02][313.86][-42.5]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.704376)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-154.02][313.86][-42.5]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.704376)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB1.CBs_Buffer10"
                     }
                 },
@@ -6334,7 +6334,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][0][50]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.1)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][0][50]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.1)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB1.CBs_Buffer2"
                     }
                 }
@@ -6361,7 +6361,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-84.4][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.3376)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-84.4][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.3376)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP5.PP2s_LC_Pos3"
                     }
                 },
@@ -6372,7 +6372,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-84.4][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.3376)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-84.4][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.3376)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP5.PP2s_LC_Pos2"
                     }
                 },
@@ -6383,7 +6383,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-84.4][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.3376)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-84.4][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.3376)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP5.PP2s_LC_Pos1"
                     }
                 },
@@ -6409,7 +6409,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][-0.22][-47.11]-[0][-0.22][-47.11]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][-0.22][-47.11]-[0][-0.22][-47.11]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_4"
                     }
                 }
@@ -6436,7 +6436,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP1.PPs_LC_Pos3"
                     }
                 },
@@ -6447,7 +6447,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP1.PPs_LC_Pos2"
                     }
                 },
@@ -6458,7 +6458,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP1.PPs_LC_Pos1"
                     }
                 },
@@ -6484,7 +6484,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][3][8]-[0][3][8]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][3][8]-[0][3][8]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_4"
                     }
                 }
@@ -6511,7 +6511,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP4.PPs_LC_Pos1"
                     }
                 },
@@ -6537,7 +6537,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][12.26][-37.35]-[0][12.26][-37.35]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][12.26][-37.35]-[0][12.26][-37.35]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_2"
                     }
                 }
@@ -6564,7 +6564,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-84.4][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.3376)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-84.4][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.3376)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP5.PP2s_LC_Pos2"
                     }
                 },
@@ -6575,7 +6575,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-84.4][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.3376)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-84.4][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.3376)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP5.PP2s_LC_Pos1"
                     }
                 },
@@ -6601,7 +6601,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][-0.22][-47.11]-[0][-0.22][-47.11]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][-0.22][-47.11]-[0][-0.22][-47.11]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_3"
                     }
                 }
@@ -6654,7 +6654,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-9.5][22.02][-44.18]-[-1][22.02][-44.18]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-9.5][22.02][-44.18]-[-1][22.02][-44.18]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_2"
                     }
                 }
@@ -6691,7 +6691,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-7.5][2][-35.02]-[0][2][-35]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-7.5][2][-35.02]-[0][2][-35]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_2"
                     }
                 }
@@ -6739,7 +6739,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP4.PPs_LC_Pos2"
                     }
                 },
@@ -6750,7 +6750,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP4.PPs_LC_Pos1"
                     }
                 },
@@ -6776,7 +6776,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][12.26][-37.35]-[0][12.26][-37.35]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][12.26][-37.35]-[0][12.26][-37.35]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_3"
                     }
                 }
@@ -6803,7 +6803,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP4.PPs_LC_Pos3"
                     }
                 },
@@ -6814,7 +6814,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP4.PPs_LC_Pos2"
                     }
                 },
@@ -6825,7 +6825,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP4.PPs_LC_Pos1"
                     }
                 },
@@ -6851,7 +6851,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][12.26][-37.35]-[0][12.26][-37.35]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][12.26][-37.35]-[0][12.26][-37.35]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_4"
                     }
                 }
@@ -6888,7 +6888,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-9.5][22.02][-44.18]-[-1][22.02][-44.18]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-9.5][22.02][-44.18]-[-1][22.02][-44.18]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_4"
                     }
                 }
@@ -6915,7 +6915,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP3.PPs_LC_Pos3"
                     }
                 },
@@ -6926,7 +6926,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP3.PPs_LC_Pos2"
                     }
                 },
@@ -6937,7 +6937,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP3.PPs_LC_Pos1"
                     }
                 },
@@ -6963,7 +6963,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][6.25][-38.68]-[0][6.25][-38.68]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][6.25][-38.68]-[0][6.25][-38.68]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_4"
                     }
                 }
@@ -7000,7 +7000,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-8.5][9.5][-25]-[0][9.5][-25]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-8.5][9.5][-25]-[0][9.5][-25]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_4"
                     }
                 }
@@ -7037,7 +7037,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-7.5][2][-35.02]-[0][2][-35]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-7.5][2][-35.02]-[0][2][-35]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_4"
                     }
                 }
@@ -7064,7 +7064,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP2.PPs_LC_Pos3"
                     }
                 },
@@ -7075,7 +7075,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP2.PPs_LC_Pos2"
                     }
                 },
@@ -7086,7 +7086,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-21][0][-0]-[0][0][-0]rot[0][-0][0]-[0][-0][0]t(0.084)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP2.PPs_LC_Pos1"
                     }
                 },
@@ -7112,7 +7112,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[0][8.42][-45.43]-[0][8.42][-45.43]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[0][8.42][-45.43]-[0][8.42][-45.43]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_4"
                     }
                 }
@@ -7149,7 +7149,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "animations/DFAssemblyLine/tr[-10.5][5.7][12]-[0][5.7][12]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
+                        "data": "https://raw.githubusercontent.com/wterkaj/RepoExample/main/DF/animations/DFAssemblyLine/tr[-10.5][5.7][12]-[0][5.7][12]rot[0][-0][0]-[0][-0][0]t(0.2)_rel3.txt",
                         "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#Hinge_4"
                     }
                 }
