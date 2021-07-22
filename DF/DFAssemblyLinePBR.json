@@ -1493,7 +1493,7 @@
             "type": "http://www.ontoeng.com/factory#MachineToolType",
             "representations": [
                 {
-                    "file": "models/PBR/Wing_Conveyor_1_Station.glb",
+                    "file": "models/PBR/Wing_Conveyor_1_StationRev.glb",
                     "unit": 1.0
                 }
             ]
@@ -1503,7 +1503,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/PBR/Wing_Conveyor_1_Station.glb#WC1_Static",
+                    "file": "models/PBR/Wing_Conveyor_1_StationRev.glb#WC1_Static",
                     "unit": 1.0
                 }
             ],
@@ -1525,7 +1525,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/PBR/Wing_Conveyor_1_Station.glb#Vibrating_Bowl_Wing",
+                    "file": "models/PBR/Wing_Conveyor_1_StationRev.glb#Vibrating_Bowl_Wing",
                     "unit": 1.0
                 }
             ],
@@ -1548,7 +1548,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#WC1s_FloatingY",
             "representations": [
                 {
-                    "file": "models/PBR/Wing_Conveyor_1_Station.glb#WC1_Floating_Y",
+                    "file": "models/PBR/Wing_Conveyor_1_StationRev.glb#WC1_Floating_Y",
                     "unit": 1.0
                 }
             ],
@@ -1570,7 +1570,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/PBR/Wing_Conveyor_1_Station.glb#WC1_Floating_X",
+                    "file": "models/PBR/Wing_Conveyor_1_StationRev.glb#WC1_Floating_X",
                     "unit": 1.0
                 }
             ],
@@ -1592,7 +1592,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/PBR/Wing_Conveyor_1_Station.glb#WC1_Floating_Y",
+                    "file": "models/PBR/Wing_Conveyor_1_StationRev.glb#WC1_Floating_Y",
                     "unit": 1.0
                 }
             ],
@@ -1615,7 +1615,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#WC1s_Static",
             "representations": [
                 {
-                    "file": "models/PBR/Wing_Conveyor_1_Station.glb#WC1_Static",
+                    "file": "models/PBR/Wing_Conveyor_1_StationRev.glb#WC1_Static",
                     "unit": 1.0
                 }
             ],
@@ -1706,7 +1706,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#WC1s_Gripper2",
             "representations": [
                 {
-                    "file": "models/PBR/Wing_Conveyor_1_Station.glb#WC1_Gripper_2",
+                    "file": "models/PBR/Wing_Conveyor_1_StationRev.glb#WC1_Gripper_2",
                     "unit": 1.0
                 }
             ],
@@ -1750,7 +1750,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/PBR/Wing_Conveyor_1_Station.glb#WC1_Gripper_1",
+                    "file": "models/PBR/Wing_Conveyor_1_StationRev.glb#WC1_Gripper_1",
                     "unit": 1.0
                 }
             ],
@@ -1864,7 +1864,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#WC1s_Gripper1",
             "representations": [
                 {
-                    "file": "models/PBR/Wing_Conveyor_1_Station.glb#WC1_Gripper_1",
+                    "file": "models/PBR/Wing_Conveyor_1_StationRev.glb#WC1_Gripper_1",
                     "unit": 1.0
                 }
             ],
@@ -1887,7 +1887,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#WC1s_FloatingX",
             "representations": [
                 {
-                    "file": "models/PBR/Wing_Conveyor_1_Station.glb#WC1_Floating_X",
+                    "file": "models/PBR/Wing_Conveyor_1_StationRev.glb#WC1_Floating_X",
                     "unit": 1.0
                 }
             ],
@@ -1944,7 +1944,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#WC1s_VibratingBowl",
             "representations": [
                 {
-                    "file": "models/PBR/Wing_Conveyor_1_Station.glb#Vibrating_Bowl_Wing",
+                    "file": "models/PBR/Wing_Conveyor_1_StationRev.glb#Vibrating_Bowl_Wing",
                     "unit": 1.0
                 }
             ],
@@ -1988,7 +1988,7 @@
             "type": "http://ifcowl.openbimstandards.org/IFC4_ADD1#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "models/PBR/Wing_Conveyor_1_Station.glb#WC1_Gripper_2",
+                    "file": "models/PBR/Wing_Conveyor_1_StationRev.glb#WC1_Gripper_2",
                     "unit": 1.0
                 }
             ],
@@ -3059,7 +3059,7 @@
             "type": "http://www.ontoeng.com/factory#Conveyor",
             "representations": [
                 {
-                    "file": "models/PBR/Wing_Conveyor_1_Station.glb#WC1_Conveyor",
+                    "file": "models/PBR/Wing_Conveyor_1_StationRev.glb#WC1_Conveyor",
                     "unit": 1.0
                 }
             ],
@@ -3137,7 +3137,7 @@
             "model": "http://www.ontoeng.com/DFLibStations#WC1s_Conveyor",
             "representations": [
                 {
-                    "file": "models/PBR/Wing_Conveyor_1_Station.glb#WC1_Conveyor",
+                    "file": "models/PBR/Wing_Conveyor_1_StationRev.glb#WC1_Conveyor",
                     "unit": 1.0
                 }
             ],
